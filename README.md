@@ -27,7 +27,7 @@ You also need:
 
 - A working installation of `simple_pyspin`
 - A FLIR / Point Grey USB3 or GigE camera
-- An Arduino connected via serial (COM3 by default)
+- An Arduino connected via serial
 
 Use the interface to:
 ----------
